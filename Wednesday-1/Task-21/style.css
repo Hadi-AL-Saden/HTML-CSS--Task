@@ -1,0 +1,32 @@
+
+
+
+#d1
+
+{
+text-decoration-style:dotted ;
+text-decoration-color: rgb(98, 0, 172);
+text-decoration-line: underline;
+color: orchid;
+;
+}
+
+#d2
+{
+    color: green;
+} 
+
+#d3
+{
+    color: orange;
+}
+#d4{
+margin-right: 70%;
+}
+#d5{
+
+    border: 3px purple solid;
+    margin-right:70%;
+    padding: 20px 20px 20px;
+    
+}

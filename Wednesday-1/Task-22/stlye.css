@@ -1,0 +1,19 @@
+#d1
+{
+    border: 3px blue solid ;
+
+
+}
+
+#d2
+{
+     border-style: solid;
+     border-color: blue red yellow green ;
+     border-width: 3px;
+
+}
+#d3
+{
+    color: green;
+    border: 3px  green solid ;
+}

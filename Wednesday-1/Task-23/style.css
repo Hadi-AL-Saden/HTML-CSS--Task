@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://assets.pokemon.com/static2/_ui/img/og-default-image.jpeg");
+    background-repeat: no-repeat;
+    background-size:300px;
+    background-position: left;
+    background-position-y:247px;
+
+    
+}
+
+
+
+#d1
+
+{
+    background-color: red;
+}
+#d2
+{
+    color: red;
+    text-align-last: auto;
+    
+}
+
+#d3
+{
+    text-overflow: clip;
+}

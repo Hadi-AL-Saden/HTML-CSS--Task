@@ -1,0 +1,28 @@
+
+body{
+    background-color: rgb(241, 221, 193);
+}
+
+#d1{
+    
+    border: 3px solid  black;
+    margin-right: 70%;
+}
+#d2{
+border: 3px dashed black;
+margin-right: 70%;
+
+
+}
+#p1{
+    border: 3px dashed rgb(255, 0, 0);
+    margin: 10px;
+    
+}
+#d3{
+    border: 3px solid rgb(0, 0, 0)
+    ;margin-right: 70%;
+    
+}
+
+
