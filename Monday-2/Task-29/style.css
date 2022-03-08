@@ -1,0 +1,16 @@
+body
+{
+background-color: blanchedalmond;
+}
+
+.d1
+{  text-align: center;
+    margin: 3px;
+    font-size: 50px;
+    color: aliceblue;
+display: grid;
+grid-template-columns:repeat(9,auto);
+grid-column-end: 40%;
+height: 100vh;
+
+}

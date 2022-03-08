@@ -1,0 +1,17 @@
+.d1{
+    border:5px rgb(255, 187, 41) solid; 
+    font-size: 80px;
+    text-align: center;
+    color: aliceblue;
+    width: 200vh;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap ;
+
+    
+    
+}
+.d1 div{
+    
+    width: 25%;
+}

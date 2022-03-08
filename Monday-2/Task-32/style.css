@@ -1,0 +1,22 @@
+.d
+{
+   color: aliceblue;
+    text-align: center;
+  
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    
+}
+
+#d1{
+    background-color: orange;
+   height: 100%;
+   width: 100%;
+}
+
+#d2{
+    background-color: blue;
+    height: 100%;
+   width: 100%;
+}
