@@ -1,0 +1,48 @@
+.upper-bar{
+  text-align: center;
+    background-color: rgb(65, 63, 63);
+    color: rgb(197, 186, 186);
+    
+   
+}
+
+
+.btn{
+
+    color: gainsboro;
+    background: none;
+}
+.pp{
+    border-radius: 10px;
+    height: 35px;
+   
+}
+.mid
+{margin-top: 5%;
+    margin-left: 23%;
+    position: absolute;
+    
+}
+#al
+{
+    margin-top: 20%;
+    margin-left: 23%;
+    margin-right: 23%;
+
+}
+#last
+{
+ margin-top: 5%; 
+margin-left: 20%;
+
+ 
+}
+.btn1{
+    border-radius: 5px;
+    background-color: aliceblue;
+    
+}
+
+.dd{
+    margin-right: 45%;
+}

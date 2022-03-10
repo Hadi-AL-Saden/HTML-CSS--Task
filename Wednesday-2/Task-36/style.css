@@ -1,0 +1,21 @@
+#tp
+{box-sizing: border-box;
+    border: 1px  solid;
+   width: 50%;
+   margin: 25%;
+
+    
+}
+#r1
+{
+    background-color: pink;
+}
+
+#r2
+{
+    background-color: rgba(245, 200, 118, 0.966);
+}
+#r3
+{
+    background-color: rgb(166, 250, 250);
+}
